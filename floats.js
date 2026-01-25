@@ -17,7 +17,7 @@ const floatConfig = {
     // Assault Rifles
     "AK-47 Inheritance": {
         "FN": 0.02,
-        "MW": 0.08
+        "MW": 0.073
     },
 
     "M4A1-S Printstream": {
