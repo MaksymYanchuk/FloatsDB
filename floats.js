@@ -19,6 +19,21 @@ const floatConfig = {
         "FN": 0.02,
         "MW": 0.073
     },
+    
+    "AK-47 Point Disarray": {
+        "FN": 0.02,
+        "MW": 0.073,
+    }    
+
+    "AK-47 Ice Coaled": {
+        "FN": 0.02,
+        "MW": 0.073,
+    }    
+
+    "AK-47 Cartel": {
+        "FN": 0.02,
+        "MW": 0.071,
+    }   
 
     "M4A1-S Printstream": {
         "FN": 0.02,
