@@ -1,12 +1,18 @@
 const floatConfig = {
 
     // Misc
-    "Tiger Tooth": { "FN": 0.01 },
-    "Doppler": { "FN": 0.01 },
+    "Tiger Tooth": { "FN": 0.009 },
+    "Doppler": { "FN": 0.009 },
+    "Marble Fade": { "FN": 0.009 },
     
     // Knives
 
     //Pistols
+    "R8 Revolver Amber Fade" : {
+
+        
+    },
+    
     "USP-S Printstream": {
         "FN": 0.025,
         "MW": 0.09
@@ -64,6 +70,11 @@ const floatConfig = {
     },
 
     "AWP Chromatic Aberration": {
+        "FN": 0.01,
+        "MW": 0.08
+    },
+    
+      "AWP Corticera": {
         "FN": 0.01,
         "MW": 0.08
     },
