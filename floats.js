@@ -24,7 +24,7 @@ const floatConfig = {
 
     //SMGS
 
-    "MAC-10 Neon Rider" {
+    "MAC-10 Neon Rider": {
         "FN": 0.02,
         "MW": 0.08,
     },
