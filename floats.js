@@ -1,7 +1,10 @@
 const floatConfig = {
 
+    // Misc
+    "Tiger Tooth": { "FN": 0.01 },
+    "Doppler": { "FN": 0.01 },
+    
     // Knives
-    "★ Bowie Knife Tiger Tooth": { "FN": 0.01 },
 
     //Pistols
     "USP-S Printstream": {
@@ -9,11 +12,23 @@ const floatConfig = {
         "MW": 0.09
     },
 
+    "P250 | See Ya Later": {
+        "FN": 0.025,
+        "MW": 0.071
+    },
+
     "Desert Eagle Printstream": {
         "FN": 0.025,
         "MW": 0.075
     },
 
+    //SMGS
+
+    "MAC-10 Neon Rider" {
+        "FN": 0.02,
+        "MW": 0.08,
+    },
+        
     // Assault Rifles
     "AK-47 Inheritance": {
         "FN": 0.02,
@@ -48,7 +63,11 @@ const floatConfig = {
         "MW": 0.08
     },
 
-
+    "AWP Chromatic Aberration": {
+        "FN": 0.01,
+        "MW": 0.08
+    },
+        
     default: { "FN": 0.02, "MW": 0.09, "FT": 0.17 }
 };
 
